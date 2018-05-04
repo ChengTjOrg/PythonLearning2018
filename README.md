@@ -1,4 +1,4 @@
-# Python Tutorial Learning Group 2018
+# Python Tutorial (latest)
 
 ## 目标
 学习 Python 辅导资料

@@ -5,5 +5,6 @@
 
 ## 素材
 
-官方文档 https://docs.python.org/3/tutorial/index.html
+1. 官方文档 https://docs.python.org/3/tutorial/index.html
+2. 来自GitHub（整理中）
 
